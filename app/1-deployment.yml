@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: lachy0x/portfolio:v1.0.0
+          image: lachy0x/portfolio:v1.0.1
           ports:
             - containerPort: 80
           imagePullPolicy: Always
